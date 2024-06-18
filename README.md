@@ -1,6 +1,8 @@
 # Identifying-genetic-variants-correlated-with-biofilm-formation-a-microbial-GWAS
 This project aims to identify genetic variants correlated with biofilm formation using treeWAS R package.
 
+For data access, please email me at ahmedheshamgalal47@gmail.com
+
 ## What is treeWAS?
 TreeWAS is an R package that features a phylogenetic, pangenome-based approach (though supporting other variants’ types).  It implements simulated “null” genetic datasets to control for multiple confounders. These simulated loci make a null distribution of three different association scores (terminal, subsequent, and simultaneous), which are then used as a cutoff to identify the real (unsimulated; experimental) significant associations.
 
